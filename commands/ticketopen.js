@@ -11,7 +11,7 @@ exports.run = async(client, message, args) => {
     const yetkilirol2 = ayarlar.yetkili2
     const botunrolu = ayarlar.botrol
     const kategori = ayarlar.kategori
-    const adminn = ayarlar.AdminID
+    const adminn = ayarlar.adminID
     let everyone = message.guild.roles.cache.find(r => r.name === `@everyone`)
     var embed1 = new Discord.MessageEmbed()
     .setColor("RED")
