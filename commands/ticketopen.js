@@ -11,6 +11,7 @@ exports.run = async(client, message, args) => {
     const yetkilirol2 = ayarlar.yetkili2
     const botunrolu = ayarlar.botrol
     const kategori = ayarlar.kategori
+    const adminn = ayarlar.AdminID
     let everyone = message.guild.roles.cache.find(r => r.name === `@everyone`)
     var embed1 = new Discord.MessageEmbed()
     .setColor("RED")
@@ -58,6 +59,12 @@ if(ticketsebebi)  message.channel.send(embed2).then(message.react("✅")).then(a
   'ATTACH_FILES': true })
 
   channel.createOverwrite(yetkilirol2, {
+  'SEND_MESSAGES': true,
+  'READ_MESSAGE_HISTORY': true,  
+  'VIEW_CHANNEL': true,
+  'ATTACH_FILES': true })
+   
+   channel.createOverwrite(adminn, {
   'SEND_MESSAGES': true,
   'READ_MESSAGE_HISTORY': true,  
   'VIEW_CHANNEL': true,
