@@ -1,6 +1,6 @@
 {
   "prefix": "PREFİX",
-  "adminID": "TİCKET KAPATABİLECEK ADMİNİN İD",
+  "adminID": "TİCKET KAPATABİLECEK ADMİN ROLÜNÜN İDSİ",
   "ticketlog": "TİCKET LOGLARININ TUTACAĞI KANALIN İDSİ",
   "yetkili1":"TİCKET KANALINI GÖRECEK 1.YETKİLİ ROLÜN İDSİ",
   "yetkili2":"TİCKET KANALINI GÖRECEK 2.YETKİLİ ROLÜN İDSİ",
