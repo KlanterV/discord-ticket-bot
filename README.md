@@ -1,11 +1,11 @@
 ## Selam arkadaşlar hazırladığım Ticket botunun kurulumunu anlatacağım
 
 
-## Config dosyasını açıyorsunuz girisbilgisi.jsonda ki tırnaklara tokeninizi giriyorsunuz sonra config.jsona girip orda ki bilgileride dolduruyorsunuz ikisinide tamamladıkdan sonra run a basarak botunuzu çalıştırabilirsiniz
+## Config dosyasını açıyorsunuz girisbilgisi.jsonda ki tırnaklara tokeninizi giriyorsunuz sonra config.jsona girip ordaki bilgileride dolduruyorsunuz ikisinide tamamladıktan sonra run a basarak botunuzu çalıştırabilirsiniz
 
-## Şimdi kullanımına geçelim ticketekle kanalına !ticketbilgi(ünlem yerine prefixi ne ayarladıysanız onu yazın) yazın ve keyfinize bakın başka yapmanız gereken birşey yok
+## Şimdi kullanımına geçelim ticketekle kanalına !ticketbilgi(ünlem yerine prefixi ne ayarladıysanız onu yazın) yazın ve keyfinize bakın başka yapmanız gereken bir şey yok
 
-dipnot: ticket kapatılması ise !ticketclose @ticketiacankişi ticket kapama sebebi şeklinde olur lütfen kişiyi etiketlemeyi ve sebepi yazmayı unutmayın
+dipnot: ticket kapatılması ise !ticketclose @ticketiacankişi ticket kapama sebebi şeklinde olur lütfen kişiyi etiketlemeyi ve sebebi yazmayı unutmayın
 
  Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 <p align="center">
