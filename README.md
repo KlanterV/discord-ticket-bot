@@ -3,7 +3,7 @@
 
 ## Config dosyasını açıyorsunuz girisbilgisi.jsonda ki tırnaklara tokeninizi giriyorsunuz sonra config.jsona girip orda ki bilgileride dolduruyorsunuz ikisinide tamamladıkdan sonra run a basarak botunuzu çalıştırabilirsiniz
 
-# Klanter#9898
+
 
  Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 <p align="center">
