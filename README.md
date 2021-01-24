@@ -6,5 +6,4 @@
 ## Şimdi kullanımına geçelim ticketekle kanalına !ticketbilgi(ünlem yerine prefixi ne ayarladıysanız onu yazın) yazın ve keyfinize bakın başka yapmanız gereken bir şey yok
 
 dipnot: ticket kapatılması ise !ticketclose @ticketiacankişi ticket kapama sebebi şeklinde olur lütfen kişiyi etiketlemeyi ve sebebi yazmayı unutmayın
-
- Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
+ek olarak da proje çok çok eskiden yapılmıştır hatalar olabilir
