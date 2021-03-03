@@ -1,0 +1,19 @@
+{
+  "name": "ticket-bot",
+  "version": "9.9.9",
+  "description": "ticket bot",
+  "main": "ticket.js",
+  "scripts": {
+    "test": "node ticket.js",
+    "dev": "nodemon ticket.js"
+  },
+  "author": "Klanter",
+  "license": "ISC",
+  "dependencies": {
+    "@aloshai/mongosha": "^1.1.5",
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
